@@ -1,0 +1,7 @@
+.contianer{
+    display: flex;
+    justify-content: space-around;
+    margin:30px 0px 60px ;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}
